@@ -1,0 +1,5 @@
+gato#sm#bicho do mato#
+cao#sm#bicho domestico#
+leao#sm#bicho da selva#
+canguru#sm#bicho que pula#
+foca#sf#bicho da agua#%
